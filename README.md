@@ -7,9 +7,9 @@ __DISCLAIMER:__ This project is written in C++17 and utilizes OpenGL 4.5. If you
 
 ---
 
-### Newest Features
-1. Physically Based Rendering (PBR) of Shapes (Models to be added later)
-2. Dear ImGUI support for real-time variable updates
+## Newest Features
+* Physically Based Rendering (PBR) of Shapes (Models to be added later)
+* Dear ImGUI support for real-time variable updates
 
 ---
 
@@ -23,14 +23,10 @@ If you want to just view the application, you can either:
 * Download just the Release executable and the shaders, textures, and vendor folders from the MR3 folder into one directory, then launch the .exe.
 
 #### Controls
-W = Forward        S = Backward        A = Left        D = Right       
-
-Space = Move Up        Left Ctrl = Move Down        Left Shift = Increase Speed
-
-Left Alt = Locks the camera (for interacting with UI)
-
-F11 = Fullscreen/Windowed
-
-Escape = Close App
-
-Backslash = Enable/Disable Wireframe
+    W = Forward        S = Backward        A = Left        D = Right       
+    Space = Move Up        Left Ctrl = Move Down        Left Shift = Increase Speed
+    
+    Left Alt = Locks the camera (for interacting with UI)
+    F11 = Fullscreen/Windowed
+    Escape = Close App
+    Backslash = Enable/Disable Wireframe
